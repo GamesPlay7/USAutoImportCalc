@@ -27,5 +27,4 @@ USAutoImportCalc/
 │
 ├── main.py        # Interactive CLI, input validation, and final table reports
 ├── calculator.py  # Core calculation logic (Excise, VAT, Logistics, and Pension Fund)
-├── rates.py       # Hardcoded 2026 auction fee tiers, transport fees, and constants
-└── .gitignore     # Prevents local cache files from being committed to git
+└── rates.py       # Hardcoded 2026 auction fee tiers, transport fees, and constants
